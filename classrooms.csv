@@ -1,0 +1,6 @@
+building;address;capacity;hourlyAvailability;dailyAvailability;type;computers;projector;locked
+Science Building;123 Main Street, Springfield, IL 62701;30;09:00,10:00,11:00,12:00,13:00;Monday,Tuesday,Wednesday,Thursday;lab;20;1;0
+Engineering Building;456 Elm Street, Springfield, IL;40;10:00,11:00,12:00,13:00;Tuesday,Wednesday,Friday;teaching;30;1;0
+Arts Building;789 Oak Avenue, Springfield, IL;25;13:00,14:00,15:00;Monday,Tuesday,Wednesday,Thursday,Friday;lab;15;0;1
+Mathematics Building;101 Maple Lane, Springfield, IL;50;15:00;Monday;teaching;40;1;0
+Library Building;222 Pine Road, Springfield, IL;60;10:00,11:00,12:00,13:00,14:00,15:00,16:00,17:00,18:00;Tuesday,Wednesday,Thursday;lab;50;1;0
